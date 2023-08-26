@@ -1,9 +1,6 @@
 # Create_Trigger_Sequence-_For_All-_Tables
 
-__________
- dynamic sql : write ddl statements inside plsql code
-__________
-create seq, trg pairs on all tables in the schema
+create  trigger sequence pairs on all tables in the schema
 	- using loop  
  
 	- drop all sequences first in the loop
